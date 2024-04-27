@@ -1,16 +1,16 @@
-# 基于演化算法的脉冲神经网络架构全自动设计方法
+# Evolutionary Multi-objective Spiking Neural Architecture Search for Image Classification
 
-本仓库用于存放《基于演化算法的脉冲神经网络架构全自动设计方法》源代码
+This is the code implementation for the paper "Evolutionary Multi-objective Spiking Neural Architecture Search for Image Classification".
 
-## 项目依赖
+## Requirements
 
 - python 3.7
 - numpy
 - torchvision
 - pytorch
 
-## 使用方法
+## Usage steps
 
-1.克隆本仓库：`git clone https://github.com/songxt3/SNN_GA.git`
+1.Clone the repo：`git clone https://github.com/songxt3/SNN_GA.git`
 
-2.运行：`python evolve.py`
+2.Run the code：`python evolve.py`
