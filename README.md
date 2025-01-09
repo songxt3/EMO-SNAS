@@ -1,6 +1,6 @@
 # Evolutionary Multi-objective Spiking Neural Architecture Search for Image Classification
 
-This is the code implementation for the paper "Evolutionary Multi-objective Spiking Neural Architecture Search for Image Classification".
+This is the code implementation for the paper "Evolutionary Multi-objective Spiking Neural Architecture Search for Image Classification", TEVC, 2025.
 
 ## Requirements
 
